@@ -272,3 +272,5 @@ var_index.grid(row=8,column=1)
 # メインループの実行
 root.mainloop()
 
+
+"HoPE 25G電装 K.K"
